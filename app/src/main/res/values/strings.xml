@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מכונית אדומה</string>
+    <string name="level_label">שלב %d מתוך %d</string>
+    <string name="moves_label">מהלכים: %d</string>
+    <string name="best_label">שיא: %s</string>
+    <string name="btn_prev">◄ קודם (*)</string>
+    <string name="btn_next">הבא (#) ►</string>
+    <string name="btn_undo">ביטול (7)</string>
+    <string name="btn_reset">איפוס (9)</string>
+    <string name="keypad_hint">ניווט: חיצים/2,4,6,8 | בחירה/שחרור: 5/אישור | ביטול: 7 | איפוס: 9</string>
+    <string name="win_title">!כל הכבוד, ניצחת</string>
+    <string name="win_message">פתרת את שלב %d ב-%d מהלכים!</string>
+    <string name="btn_next_level">שלב הבא</string>
+    <string name="btn_replay">שחק שוב</string>
+</resources>
